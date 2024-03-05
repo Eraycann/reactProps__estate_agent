@@ -1,8 +1,33 @@
-# React + Vite
+# Estate Agent Sales Website 🏠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple sales website for an estate agent built with React and styled using Bulma.
 
-Currently, two official plugins are available:
+## Live Demo
+[Go to Website](https://react-props-estate-agent.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Alternatif Metin](./img/5.png)
+
+
+## Project Structure
+
+
+  - **img/**: Folder containing image files.
+    - `ico.svg`: Favicon image.
+    - `preview.png`: Screenshot or preview image of the website.
+
+- **src/**: React application source code.
+  - `App.css`: CSS file for styling the React components.
+  - `App.jsx`: Main React component that renders the sales listings.
+  - `Course.jsx`: React component for displaying individual sales listings.
+
+## Dependencies
+
+- [React](https://reactjs.org/): JavaScript library for building user interfaces.
+- [Bulma](https://bulma.io/): CSS framework for styling the website.
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/estate-agent-sales.git
+   cd estate-agent-sales
