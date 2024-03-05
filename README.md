@@ -29,5 +29,5 @@ This project is a simple sales website for an estate agent built with React and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/estate-agent-sales.git
-   cd estate-agent-sales
+   git clone https://github.com/Eraycann/reactProps__estate_agent
+   cd reactProps__estate_agent
